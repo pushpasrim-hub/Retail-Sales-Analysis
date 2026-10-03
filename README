@@ -1,0 +1,33 @@
+Retail Sales Analysis
+
+Project Overview
+
+Retail Sales Analysis is a data analytics project developed using Microsoft Excel and Power BI. The project focuses on analyzing retail sales data and presenting important business insights through an interactive dashboard.
+
+Objectives
+
+- Analyze retail sales performance
+- Track sales, quantity, profit, and orders
+- Present data using interactive visualizations
+- Use slicers to filter and explore the data
+- Create an easy-to-understand Power BI dashboard
+
+Tools & Technologies
+
+- Microsoft Excel
+- Power BI
+
+Project Files
+
+- "supermarket sales analysis.xlsx" – Excel dataset used for analysis
+- "Retail Sales Analysis.pbix" – Power BI dashboard file
+- "Dashboard.png.png" – Dashboard screenshot
+- "Project Report.docx" – Project report
+
+Dashboard
+
+The Power BI dashboard provides interactive visualizations for analyzing sales, quantity, profit, and orders. Slicers can be used to filter and explore the data.
+
+Outcome
+
+This project demonstrates the use of Excel and Power BI for data analysis, visualization, and dashboard development.
